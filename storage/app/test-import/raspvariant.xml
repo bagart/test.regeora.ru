@@ -1,0 +1,2119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raspvariant snapTime="2017-03-16 10:29:57" num="17084" start="2017-01-09" end="" dow="31" mr_id="744" mr_num="001">
+    <graph num="1" smena="1" nullRun="3.276" lineRun="85.813" totalRun="89.089" nullTime="45" lineTime="447" otsTime="84" totalTime="492" garageOut="04:15" garageIn="13:36" lineBegin="04:45" lineEnd="13:36">
+        <event ev_id="3" start="04:15" end="04:45" departureID="50970522" arrivalID="50280388" distance="3.276" duration="30"/>
+        <event ev_id="4" start="04:45" end="05:07" departureID="50280388" arrivalID="50280388" distance="6.601" duration="22">
+            <stop st_id="50280388" time="04:45" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="04:46" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="04:47" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="04:49" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="04:51" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="04:52" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="04:53" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="04:55" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="04:57" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="04:59" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="05:01" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="05:03" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="05:05" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="05:06" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="05:07" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="05:07" end="05:15" departureID="50280388" arrivalID="50280388" distance="0.000" duration="8"/>
+        <event ev_id="4" start="05:15" end="05:37" departureID="50280388" arrivalID="50280388" distance="6.601" duration="22">
+            <stop st_id="50280388" time="05:15" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="05:16" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="05:17" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="05:19" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="05:21" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="05:22" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="05:23" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="05:25" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="05:27" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="05:29" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="05:31" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="05:33" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="05:35" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="05:36" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="05:37" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="05:37" end="05:40" departureID="50280388" arrivalID="50280388" distance="0.000" duration="3"/>
+        <event ev_id="4" start="05:40" end="06:02" departureID="50280388" arrivalID="50280388" distance="6.601" duration="22">
+            <stop st_id="50280388" time="05:40" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="05:41" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="05:42" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="05:44" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="05:46" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="05:47" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="05:48" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="05:50" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="05:52" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="05:54" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="05:56" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="05:58" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="06:00" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="06:01" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="06:02" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="06:02" end="06:22" departureID="50280388" arrivalID="50280388" distance="0.000" duration="20"/>
+        <event ev_id="4" start="06:22" end="06:47" departureID="50280388" arrivalID="50280388" distance="6.601" duration="25">
+            <stop st_id="50280388" time="06:22" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="06:23" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="06:25" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="06:27" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="06:29" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="06:31" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="06:32" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="06:34" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="06:36" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="06:38" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="06:40" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="06:42" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="06:44" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="06:45" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="06:47" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="07:02" end="07:07" departureID="50280388" arrivalID="50280388" distance="0.000" duration="5"/>
+        <event ev_id="4" start="07:07" end="07:37" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="07:07" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="07:08" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="07:10" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="07:13" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="07:15" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="07:17" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="07:20" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="07:23" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="07:25" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="07:27" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="07:29" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="07:31" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="07:33" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="07:35" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="07:37" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="07:37" end="07:47" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="07:47" end="08:17" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="07:47" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="07:48" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="07:50" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="07:54" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="07:56" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="07:58" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="08:00" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="08:03" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="08:05" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="08:07" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="08:09" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="08:11" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="08:13" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="08:15" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="08:17" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="08:17" end="08:30" departureID="50280388" arrivalID="50280388" distance="0.000" duration="13"/>
+        <event ev_id="4" start="08:30" end="08:55" departureID="50280388" arrivalID="50280388" distance="6.601" duration="25">
+            <stop st_id="50280388" time="08:30" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="08:31" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="08:33" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="08:36" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="08:38" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="08:40" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="08:42" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="08:44" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="08:45" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="08:47" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="08:49" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="08:51" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="08:53" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="08:54" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="08:55" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="08:55" end="09:25" departureID="50280388" arrivalID="50280388" distance="0.000" duration="30"/>
+        <event ev_id="4" start="09:25" end="09:51" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="09:25" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="09:26" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="09:28" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="09:31" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="09:33" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="09:35" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="09:37" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="09:39" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="09:41" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="09:43" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="09:44" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="09:46" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="09:48" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="09:49" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="09:51" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="09:51" end="10:30" departureID="50280388" arrivalID="50280388" distance="0.000" duration="39"/>
+        <event ev_id="4" start="10:30" end="10:56" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="10:30" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="10:31" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="10:33" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="10:36" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="10:38" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="10:40" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="10:42" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="10:44" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="10:46" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="10:48" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="10:49" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="10:51" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="10:53" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="10:54" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="10:56" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="10:56" end="11:10" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="11:10" end="11:36" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="11:10" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="11:11" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="11:13" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="11:16" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="11:18" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="11:20" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="11:22" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="11:24" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="11:26" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="11:28" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="11:29" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="11:31" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="11:33" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="11:34" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="11:36" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="11:36" end="11:50" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="11:50" end="12:16" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="11:50" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="11:51" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="11:53" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="11:56" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="11:58" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="12:00" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="12:02" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="12:04" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="12:06" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="12:08" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="12:09" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="12:11" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="12:13" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="12:14" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="12:16" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="12:16" end="12:30" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="12:30" end="12:56" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="12:30" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="12:31" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="12:33" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="12:36" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="12:38" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="12:40" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="12:42" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="12:44" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="12:46" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="12:48" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="12:49" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="12:51" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="12:53" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="12:54" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="12:56" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="12:56" end="13:10" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="13:10" end="13:36" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="13:10" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="13:11" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="13:13" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="13:16" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="13:18" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="13:20" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="13:22" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="13:24" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="13:26" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="13:28" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="13:29" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="13:31" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="13:33" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="13:34" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="13:36" distanceToNext="0.000" kp="1"/>
+        </event>
+    </graph>
+    <graph num="1" smena="2" nullRun="3.262" lineRun="92.414" totalRun="95.676" nullTime="40" lineTime="565" otsTime="97" totalTime="605" garageOut="13:36" garageIn="25:03" lineBegin="13:36" lineEnd="24:38">
+        <event ev_id="14" start="13:36" end="14:36" departureID="50280388" arrivalID="50280388" distance="0.000" duration="60"/>
+        <event ev_id="5" start="14:36" end="14:50" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="14:50" end="15:16" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="14:50" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="14:51" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="14:53" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="14:56" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="14:58" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="15:00" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="15:02" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="15:04" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="15:06" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="15:08" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="15:09" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="15:11" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="15:13" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="15:14" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="15:16" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="15:16" end="15:30" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="15:30" end="15:56" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="15:30" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="15:31" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="15:33" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="15:36" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="15:38" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="15:40" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="15:42" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="15:44" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="15:46" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="15:48" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="15:49" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="15:51" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="15:53" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="15:54" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="15:56" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="15:56" end="16:10" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="16:10" end="16:36" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="16:10" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="16:11" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="16:13" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="16:16" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="16:18" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="16:20" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="16:22" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="16:24" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="16:26" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="16:28" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="16:29" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="16:31" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="16:33" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="16:34" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="16:36" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="16:51" end="17:00" departureID="50280388" arrivalID="50280388" distance="0.000" duration="9"/>
+        <event ev_id="4" start="17:00" end="17:30" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="17:00" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="17:01" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="17:03" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="17:07" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="17:09" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="17:11" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="17:14" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="17:16" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="17:18" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="17:20" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="17:22" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="17:24" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="17:26" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="17:28" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="17:30" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="17:30" end="17:50" departureID="50280388" arrivalID="50280388" distance="0.000" duration="20"/>
+        <event ev_id="4" start="17:50" end="18:20" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="17:50" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="17:51" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="17:53" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="17:57" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="17:59" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="18:01" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="18:04" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="18:06" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="18:08" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="18:10" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="18:12" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="18:14" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="18:16" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="18:18" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="18:20" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="18:20" end="18:25" departureID="50280388" arrivalID="50280388" distance="0.000" duration="5"/>
+        <event ev_id="4" start="18:25" end="18:55" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="18:25" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="18:26" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="18:28" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="18:32" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="18:34" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="18:36" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="18:39" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="18:41" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="18:43" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="18:45" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="18:47" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="18:49" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="18:51" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="18:53" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="18:55" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="18:55" end="19:36" departureID="50280388" arrivalID="50280388" distance="0.000" duration="41"/>
+        <event ev_id="4" start="19:36" end="20:06" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="19:36" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="19:37" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="19:39" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="19:43" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="19:45" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="19:47" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="19:50" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="19:52" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="19:54" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="19:56" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="19:58" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="20:00" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="20:02" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="20:04" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="20:06" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="20:06" end="20:16" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="20:16" end="20:46" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="20:16" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="20:17" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="20:19" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="20:23" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="20:25" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="20:27" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="20:30" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="20:32" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="20:34" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="20:36" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="20:38" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="20:40" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="20:42" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="20:44" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="20:46" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="20:46" end="21:01" departureID="50280388" arrivalID="50280388" distance="0.000" duration="15"/>
+        <event ev_id="4" start="21:01" end="21:25" departureID="50280388" arrivalID="50280388" distance="6.601" duration="24">
+            <stop st_id="50280388" time="21:01" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="21:02" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="21:04" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="21:06" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="21:08" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="21:10" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="21:12" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="21:14" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="21:16" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="21:18" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="21:19" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="21:21" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="21:23" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="21:24" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="21:25" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="21:25" end="21:30" departureID="50280388" arrivalID="50280388" distance="0.000" duration="5"/>
+        <event ev_id="4" start="21:30" end="21:54" departureID="50280388" arrivalID="50280388" distance="6.601" duration="24">
+            <stop st_id="50280388" time="21:30" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="21:31" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="21:33" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="21:35" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="21:37" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="21:39" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="21:41" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="21:43" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="21:45" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="21:47" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="21:48" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="21:50" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="21:52" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="21:53" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="21:54" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="21:54" end="22:00" departureID="50280388" arrivalID="50280388" distance="0.000" duration="6"/>
+        <event ev_id="4" start="22:00" end="22:24" departureID="50280388" arrivalID="50280388" distance="6.601" duration="24">
+            <stop st_id="50280388" time="22:00" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="22:01" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="22:03" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="22:05" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="22:07" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="22:09" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="22:11" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="22:13" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="22:15" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="22:17" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="22:18" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="22:20" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="22:22" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="22:23" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="22:24" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="22:24" end="22:40" departureID="50280388" arrivalID="50280388" distance="0.000" duration="16"/>
+        <event ev_id="4" start="22:40" end="23:04" departureID="50280388" arrivalID="50280388" distance="6.601" duration="24">
+            <stop st_id="50280388" time="22:40" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="22:41" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="22:43" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="22:45" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="22:47" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="22:49" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="22:51" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="22:53" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="22:55" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="22:57" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="22:58" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="23:00" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="23:02" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="23:03" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="23:04" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="23:04" end="23:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="16"/>
+        <event ev_id="4" start="23:20" end="23:39" departureID="50280388" arrivalID="50280388" distance="6.601" duration="19">
+            <stop st_id="50280388" time="23:20" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="23:21" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="23:22" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="23:24" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="23:26" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="23:28" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="23:29" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="23:31" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="23:32" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="23:34" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="23:35" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="23:36" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="23:37" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="23:38" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="23:39" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="23:39" end="24:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="41"/>
+        <event ev_id="4" start="24:20" end="24:38" departureID="50280388" arrivalID="50280388" distance="6.601" duration="18">
+            <stop st_id="50280388" time="24:20" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="24:21" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="24:22" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="24:24" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="24:25" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="24:27" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="24:28" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="24:29" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="24:30" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="24:32" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="24:33" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="24:34" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="24:35" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="24:36" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="24:38" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="3" start="24:38" end="25:03" departureID="50280388" arrivalID="50970522" distance="3.262" duration="25"/>
+    </graph>
+    <graph num="2" smena="1" nullRun="3.276" lineRun="73.344" totalRun="76.620" nullTime="40" lineTime="449" otsTime="82" totalTime="489" garageOut="05:15" garageIn="14:46" lineBegin="05:55" lineEnd="14:46">
+        <event ev_id="3" start="05:15" end="05:55" departureID="50970522" arrivalID="50280388" distance="3.276" duration="40"/>
+        <event ev_id="4" start="05:55" end="06:21" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="05:55" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="05:57" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="05:58" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="05:59" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="06:00" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="06:02" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="06:04" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="06:06" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="06:08" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="06:10" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="06:12" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="06:14" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="06:17" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="06:18" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="06:19" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="06:21" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="06:21" end="06:32" departureID="50280388" arrivalID="50280388" distance="0.000" duration="11"/>
+        <event ev_id="4" start="06:32" end="06:58" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="06:32" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="06:34" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="06:35" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="06:36" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="06:37" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="06:39" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="06:41" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="06:43" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="06:45" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="06:47" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="06:49" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="06:51" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="06:54" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="06:55" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="06:56" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="06:58" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="06:58" end="07:15" departureID="50280388" arrivalID="50280388" distance="0.000" duration="17"/>
+        <event ev_id="4" start="07:15" end="07:45" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="07:15" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="07:17" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="07:18" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="07:20" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="07:22" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="07:24" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="07:26" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="07:28" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="07:30" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="07:32" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="07:34" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="07:36" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="07:40" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="07:41" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="07:42" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="07:45" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="07:45" end="07:55" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="07:55" end="08:25" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="07:55" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="07:57" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="07:58" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="08:00" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="08:02" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="08:04" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="08:06" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="08:08" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="08:10" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="08:12" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="08:14" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="08:16" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="08:20" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="08:21" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="08:22" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="08:25" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="08:25" end="08:37" departureID="50280388" arrivalID="50280388" distance="0.000" duration="12"/>
+        <event ev_id="4" start="08:37" end="09:07" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="08:37" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="08:39" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="08:40" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="08:42" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="08:44" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="08:46" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="08:48" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="08:50" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="08:52" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="08:54" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="08:56" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="08:58" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="09:02" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="09:03" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="09:04" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="09:07" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="09:07" end="09:55" departureID="50280388" arrivalID="50280388" distance="0.000" duration="48"/>
+        <event ev_id="4" start="09:55" end="10:25" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="09:55" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="09:57" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="09:58" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="10:00" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="10:02" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="10:04" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="10:06" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="10:08" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="10:10" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="10:12" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="10:14" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="10:16" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="10:20" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="10:21" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="10:22" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="10:25" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="10:25" end="10:40" departureID="50280388" arrivalID="50280388" distance="0.000" duration="15"/>
+        <event ev_id="4" start="10:40" end="11:06" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="10:40" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="10:41" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="10:42" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="10:44" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="10:46" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="10:48" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="10:49" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="10:51" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="10:52" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="10:54" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="10:56" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="10:58" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="11:00" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="11:01" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="11:03" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="11:06" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="11:06" end="11:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="11:20" end="11:46" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="11:20" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="11:21" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="11:22" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="11:24" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="11:26" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="11:28" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="11:29" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="11:31" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="11:32" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="11:34" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="11:36" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="11:38" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="11:40" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="11:41" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="11:43" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="11:46" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="11:46" end="12:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="34"/>
+        <event ev_id="4" start="12:20" end="12:46" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="12:20" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="12:21" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="12:22" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="12:24" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="12:26" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="12:28" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="12:29" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="12:31" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="12:32" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="12:34" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="12:36" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="12:38" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="12:40" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="12:41" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="12:43" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="12:46" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="12:46" end="13:02" departureID="50280388" arrivalID="50280388" distance="0.000" duration="16"/>
+        <event ev_id="4" start="13:02" end="13:28" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="13:02" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="13:03" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="13:04" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="13:06" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="13:08" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="13:10" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="13:11" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="13:13" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="13:14" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="13:16" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="13:18" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="13:20" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="13:22" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="13:23" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="13:25" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="13:28" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="13:28" end="13:40" departureID="50280388" arrivalID="50280388" distance="0.000" duration="12"/>
+        <event ev_id="4" start="13:40" end="14:06" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="13:40" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="13:41" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="13:42" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="13:44" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="13:46" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="13:48" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="13:49" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="13:51" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="13:52" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="13:54" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="13:56" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="13:58" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="14:00" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="14:01" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="14:03" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="14:06" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="14:06" end="14:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="14:20" end="14:46" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="14:20" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="14:21" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="14:22" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="14:24" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="14:26" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="14:28" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="14:29" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="14:31" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="14:32" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="14:34" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="14:36" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="14:38" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="14:40" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="14:41" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="14:43" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="14:46" distanceToNext="0.000" kp="1"/>
+        </event>
+    </graph>
+    <graph num="2" smena="2" nullRun="3.262" lineRun="73.344" totalRun="76.606" nullTime="58" lineTime="450" otsTime="102" totalTime="508" garageOut="14:46" garageIn="24:23" lineBegin="14:46" lineEnd="23:58">
+        <event ev_id="14" start="14:46" end="15:25" departureID="50280388" arrivalID="50280388" distance="0.000" duration="39"/>
+        <event ev_id="5" start="15:25" end="15:40" departureID="50280388" arrivalID="50280388" distance="0.000" duration="15"/>
+        <event ev_id="4" start="15:40" end="16:06" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="15:40" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="15:41" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="15:42" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="15:44" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="15:46" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="15:48" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="15:49" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="15:51" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="15:52" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="15:54" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="15:56" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="15:58" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="16:00" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="16:01" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="16:03" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="16:06" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="16:06" end="16:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="16:20" end="16:46" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="16:20" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="16:21" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="16:22" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="16:24" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="16:26" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="16:28" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="16:29" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="16:31" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="16:32" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="16:34" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="16:36" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="16:38" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="16:40" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="16:41" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="16:43" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="16:46" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="16:46" end="17:55" departureID="50280388" arrivalID="50280388" distance="0.000" duration="69"/>
+        <event ev_id="4" start="17:55" end="18:25" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="17:55" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="17:57" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="17:58" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="18:00" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="18:02" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="18:04" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="18:06" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="18:08" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="18:10" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="18:12" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="18:14" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="18:16" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="18:19" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="18:20" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="18:22" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="18:25" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="18:25" end="18:33" departureID="50280388" arrivalID="50280388" distance="0.000" duration="8"/>
+        <event ev_id="4" start="18:33" end="19:03" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="18:33" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="18:35" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="18:36" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="18:38" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="18:40" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="18:42" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="18:44" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="18:46" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="18:48" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="18:50" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="18:52" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="18:54" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="18:57" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="18:58" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="18:59" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="19:03" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="19:03" end="19:10" departureID="50280388" arrivalID="50280388" distance="0.000" duration="7"/>
+        <event ev_id="4" start="19:10" end="19:40" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="19:10" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="19:12" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="19:13" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="19:15" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="19:17" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="19:19" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="19:21" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="19:23" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="19:25" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="19:27" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="19:29" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="19:31" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="19:34" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="19:35" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="19:36" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="19:40" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="19:40" end="19:50" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="19:50" end="20:20" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="19:50" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="19:52" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="19:53" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="19:55" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="19:57" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="19:59" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="20:01" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="20:03" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="20:05" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="20:07" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="20:09" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="20:11" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="20:14" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="20:15" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="20:16" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="20:20" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="20:20" end="20:25" departureID="50280388" arrivalID="50280388" distance="0.000" duration="5"/>
+        <event ev_id="4" start="20:25" end="20:55" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="20:25" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="20:27" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="20:28" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="20:30" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="20:32" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="20:34" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="20:36" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="20:38" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="20:40" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="20:42" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="20:44" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="20:46" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="20:49" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="20:50" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="20:52" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="20:55" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="21:10" end="21:18" departureID="50280388" arrivalID="50280388" distance="0.000" duration="8"/>
+        <event ev_id="4" start="21:18" end="21:41" departureID="50280388" arrivalID="50280388" distance="6.112" duration="23">
+            <stop st_id="50280388" time="21:18" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="21:19" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="21:20" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="21:21" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="21:23" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="21:25" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="21:26" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="21:28" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="21:29" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="21:31" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="21:33" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="21:35" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="21:36" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="21:37" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="21:38" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="21:41" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="21:41" end="21:45" departureID="50280388" arrivalID="50280388" distance="0.000" duration="4"/>
+        <event ev_id="4" start="21:45" end="22:07" departureID="50280388" arrivalID="50280388" distance="6.112" duration="22">
+            <stop st_id="50280388" time="21:45" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="21:46" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="21:47" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="21:48" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="21:50" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="21:51" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="21:52" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="21:54" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="21:56" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="21:58" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="21:59" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="22:01" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="22:03" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="22:04" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="22:05" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="22:07" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="22:07" end="22:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="13"/>
+        <event ev_id="4" start="22:20" end="22:42" departureID="50280388" arrivalID="50280388" distance="6.112" duration="22">
+            <stop st_id="50280388" time="22:20" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="22:21" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="22:22" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="22:23" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="22:25" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="22:26" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="22:27" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="22:29" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="22:31" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="22:33" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="22:34" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="22:36" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="22:38" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="22:39" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="22:40" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="22:42" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="22:42" end="22:57" departureID="50280388" arrivalID="50280388" distance="0.000" duration="15"/>
+        <event ev_id="4" start="22:57" end="23:15" departureID="50280388" arrivalID="50280388" distance="6.112" duration="18">
+            <stop st_id="50280388" time="22:57" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="22:58" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="22:59" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="23:00" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="23:01" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="23:02" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="23:03" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="23:04" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="23:05" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="23:06" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="23:07" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="23:08" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="23:10" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="23:11" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="23:13" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="23:15" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="23:33" end="23:40" departureID="50280388" arrivalID="50280388" distance="0.000" duration="7"/>
+        <event ev_id="4" start="23:40" end="23:58" departureID="50280388" arrivalID="50280388" distance="6.112" duration="18">
+            <stop st_id="50280388" time="23:40" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="23:41" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="23:42" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="23:43" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="23:44" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="23:45" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="23:46" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="23:47" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="23:48" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="23:49" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="23:50" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="23:51" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="23:53" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="23:54" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="23:55" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="23:58" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="3" start="23:58" end="24:23" departureID="50280388" arrivalID="50970522" distance="3.262" duration="25"/>
+    </graph>
+    <graph num="3" smena="1" nullRun="6.538" lineRun="105.616" totalRun="112.154" nullTime="75" lineTime="598" otsTime="201" totalTime="673" garageOut="05:20" garageIn="19:54" lineBegin="06:05" lineEnd="19:24">
+        <event ev_id="3" start="05:20" end="06:05" departureID="50970522" arrivalID="50280388" distance="3.276" duration="45"/>
+        <event ev_id="4" start="06:05" end="06:27" departureID="50280388" arrivalID="50280388" distance="6.601" duration="22">
+            <stop st_id="50280388" time="06:05" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="06:06" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="06:07" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="06:09" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="06:11" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="06:12" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="06:13" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="06:15" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="06:17" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="06:19" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="06:21" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="06:23" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="06:25" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="06:26" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="06:27" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="06:27" end="06:38" departureID="50280388" arrivalID="50280388" distance="0.000" duration="11"/>
+        <event ev_id="4" start="06:38" end="07:01" departureID="50280388" arrivalID="50280388" distance="6.601" duration="23">
+            <stop st_id="50280388" time="06:38" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="06:39" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="06:40" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="06:42" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="06:44" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="06:45" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="06:46" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="06:48" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="06:50" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="06:52" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="06:54" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="06:56" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="06:58" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="06:59" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="07:01" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="07:01" end="07:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="19"/>
+        <event ev_id="4" start="07:20" end="07:50" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="07:20" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="07:21" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="07:23" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="07:27" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="07:29" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="07:31" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="07:33" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="07:36" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="07:38" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="07:40" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="07:42" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="07:44" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="07:46" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="07:48" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="07:50" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="07:50" end="08:00" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="08:00" end="08:30" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="08:00" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="08:01" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="08:03" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="08:07" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="08:09" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="08:11" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="08:13" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="08:16" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="08:18" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="08:20" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="08:22" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="08:24" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="08:26" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="08:28" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="08:30" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="08:30" end="08:45" departureID="50280388" arrivalID="50280388" distance="0.000" duration="15"/>
+        <event ev_id="4" start="08:45" end="09:15" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="08:45" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="08:46" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="08:48" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="08:52" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="08:54" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="08:56" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="08:58" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="09:01" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="09:03" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="09:05" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="09:07" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="09:09" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="09:11" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="09:13" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="09:15" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="6" start="09:15" end="11:30" departureID="50280388" arrivalID="50280388" distance="0.000" duration="135"/>
+        <event ev_id="4" start="11:30" end="11:56" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="11:30" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="11:31" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="11:33" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="11:36" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="11:38" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="11:40" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="11:42" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="11:44" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="11:46" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="11:48" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="11:49" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="11:51" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="11:53" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="11:54" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="11:56" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="11:56" end="12:10" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="12:10" end="12:36" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="12:10" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="12:11" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="12:13" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="12:16" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="12:18" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="12:20" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="12:22" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="12:24" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="12:26" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="12:28" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="12:29" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="12:31" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="12:33" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="12:34" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="12:36" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="12:36" end="12:50" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="12:50" end="13:16" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="12:50" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="12:51" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="12:53" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="12:56" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="12:58" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="13:00" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="13:02" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="13:04" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="13:06" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="13:08" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="13:09" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="13:11" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="13:13" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="13:14" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="13:16" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="13:16" end="13:50" departureID="50280388" arrivalID="50280388" distance="0.000" duration="34"/>
+        <event ev_id="4" start="13:50" end="14:16" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="13:50" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="13:51" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="13:53" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="13:56" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="13:58" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="14:00" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="14:02" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="14:04" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="14:06" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="14:08" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="14:09" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="14:11" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="14:13" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="14:14" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="14:16" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="14:16" end="14:30" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="14:30" end="14:56" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="14:30" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="14:31" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="14:33" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="14:36" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="14:38" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="14:40" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="14:42" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="14:44" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="14:46" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="14:48" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="14:49" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="14:51" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="14:53" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="14:54" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="14:56" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="14:56" end="15:10" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="15:10" end="15:36" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="15:10" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="15:11" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="15:13" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="15:16" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="15:18" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="15:20" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="15:22" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="15:24" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="15:26" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="15:28" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="15:29" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="15:31" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="15:33" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="15:34" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="15:36" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="15:36" end="15:50" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="15:50" end="16:16" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="15:50" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="15:51" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="15:53" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="15:56" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="15:58" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="16:00" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="16:02" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="16:04" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="16:06" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="16:08" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="16:09" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="16:11" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="16:13" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="16:14" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="16:16" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="16:16" end="16:35" departureID="50280388" arrivalID="50280388" distance="0.000" duration="19"/>
+        <event ev_id="4" start="16:35" end="17:05" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="16:35" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="16:36" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="16:38" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="16:42" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="16:44" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="16:46" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="16:48" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="16:51" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="16:53" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="16:55" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="16:57" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="16:59" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="17:01" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="17:03" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="17:05" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="17:05" end="17:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="15"/>
+        <event ev_id="4" start="17:20" end="17:50" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="17:20" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="17:21" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="17:23" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="17:27" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="17:29" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="17:31" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="17:33" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="17:36" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="17:38" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="17:40" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="17:42" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="17:44" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="17:46" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="17:48" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="17:50" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="17:50" end="18:00" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="18:00" end="18:28" departureID="50280388" arrivalID="50280388" distance="6.601" duration="28">
+            <stop st_id="50280388" time="18:00" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="18:01" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="18:03" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="18:06" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="18:08" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="18:10" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="18:12" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="18:14" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="18:16" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="18:18" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="18:20" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="18:22" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="18:24" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="18:26" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="18:28" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="18:28" end="19:00" departureID="50280388" arrivalID="50280388" distance="0.000" duration="32"/>
+        <event ev_id="4" start="19:00" end="19:24" departureID="50280388" arrivalID="50280388" distance="6.601" duration="24">
+            <stop st_id="50280388" time="19:00" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="19:01" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="19:03" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="19:05" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="19:06" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="19:08" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="19:10" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="19:12" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="19:13" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="19:15" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="19:16" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="19:18" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="19:20" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="19:22" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="19:24" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="3" start="19:24" end="19:54" departureID="50280388" arrivalID="50970522" distance="3.262" duration="30"/>
+    </graph>
+    <graph num="4" smena="1" nullRun="6.538" lineRun="91.680" totalRun="98.218" nullTime="123" lineTime="582" otsTime="168" totalTime="705" garageOut="05:30" garageIn="19:15" lineBegin="06:15" lineEnd="18:45">
+        <event ev_id="3" start="05:30" end="06:15" departureID="50970522" arrivalID="50280388" distance="3.276" duration="45"/>
+        <event ev_id="4" start="06:15" end="06:41" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="06:15" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="06:17" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="06:18" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="06:19" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="06:20" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="06:22" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="06:24" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="06:26" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="06:28" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="06:30" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="06:32" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="06:34" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="06:37" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="06:38" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="06:39" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="06:41" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="06:41" end="07:00" departureID="50280388" arrivalID="50280388" distance="0.000" duration="19"/>
+        <event ev_id="4" start="07:00" end="07:30" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="07:00" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="07:02" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="07:03" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="07:05" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="07:07" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="07:09" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="07:11" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="07:13" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="07:15" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="07:17" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="07:19" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="07:21" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="07:25" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="07:26" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="07:27" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="07:30" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="07:30" end="07:38" departureID="50280388" arrivalID="50280388" distance="0.000" duration="8"/>
+        <event ev_id="4" start="07:38" end="08:08" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="07:38" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="07:40" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="07:41" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="07:43" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="07:45" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="07:47" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="07:49" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="07:51" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="07:53" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="07:55" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="07:57" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="07:59" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="08:03" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="08:04" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="08:05" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="08:08" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="08:08" end="08:25" departureID="50280388" arrivalID="50280388" distance="0.000" duration="17"/>
+        <event ev_id="4" start="08:25" end="08:55" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="08:25" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="08:27" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="08:28" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="08:30" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="08:32" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="08:34" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="08:36" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="08:38" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="08:40" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="08:42" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="08:44" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="08:46" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="08:49" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="08:50" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="08:52" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="08:55" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="09:10" end="09:15" departureID="50280388" arrivalID="50280388" distance="0.000" duration="5"/>
+        <event ev_id="4" start="09:15" end="09:41" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="09:15" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="09:16" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="09:17" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="09:18" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="09:20" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="09:22" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="09:23" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="09:25" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="09:27" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="09:28" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="09:30" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="09:32" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="09:35" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="09:36" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="09:38" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="09:41" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="09:41" end="10:15" departureID="50280388" arrivalID="50280388" distance="0.000" duration="34"/>
+        <event ev_id="5" start="10:15" end="10:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="5"/>
+        <event ev_id="4" start="10:20" end="10:46" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="10:20" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="10:21" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="10:22" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="10:24" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="10:26" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="10:28" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="10:29" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="10:31" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="10:32" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="10:34" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="10:36" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="10:38" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="10:40" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="10:41" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="10:43" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="10:46" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="10:46" end="11:02" departureID="50280388" arrivalID="50280388" distance="0.000" duration="16"/>
+        <event ev_id="4" start="11:02" end="11:28" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="11:02" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="11:03" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="11:04" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="11:06" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="11:08" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="11:10" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="11:11" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="11:13" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="11:14" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="11:16" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="11:18" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="11:20" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="11:22" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="11:23" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="11:25" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="11:28" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="11:28" end="11:40" departureID="50280388" arrivalID="50280388" distance="0.000" duration="12"/>
+        <event ev_id="4" start="11:40" end="12:06" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="11:40" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="11:41" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="11:42" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="11:44" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="11:46" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="11:48" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="11:49" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="11:51" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="11:52" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="11:54" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="11:56" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="11:58" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="12:00" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="12:01" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="12:03" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="12:06" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="12:06" end="13:32" departureID="50280388" arrivalID="50280388" distance="0.000" duration="86"/>
+        <event ev_id="5" start="13:50" end="13:58" departureID="50280388" arrivalID="50280388" distance="0.000" duration="8"/>
+        <event ev_id="4" start="13:58" end="14:24" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="13:58" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="13:59" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="14:00" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="14:02" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="14:04" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="14:06" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="14:07" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="14:09" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="14:10" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="14:12" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="14:14" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="14:16" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="14:18" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="14:19" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="14:21" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="14:24" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="14:24" end="14:40" departureID="50280388" arrivalID="50280388" distance="0.000" duration="16"/>
+        <event ev_id="4" start="14:40" end="15:06" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="14:40" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="14:41" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="14:42" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="14:44" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="14:46" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="14:48" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="14:49" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="14:51" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="14:52" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="14:54" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="14:56" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="14:58" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="15:00" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="15:01" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="15:03" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="15:06" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="15:06" end="15:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="15:20" end="15:46" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="15:20" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="15:21" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="15:22" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="15:24" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="15:26" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="15:28" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="15:29" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="15:31" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="15:32" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="15:34" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="15:36" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="15:38" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="15:40" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="15:41" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="15:43" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="15:46" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="15:46" end="16:02" departureID="50280388" arrivalID="50280388" distance="0.000" duration="16"/>
+        <event ev_id="4" start="16:02" end="16:28" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="16:02" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="16:03" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="16:04" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="16:06" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="16:08" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="16:10" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="16:11" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="16:13" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="16:14" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="16:16" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="16:18" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="16:20" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="16:22" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="16:23" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="16:25" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="16:28" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="16:28" end="16:40" departureID="50280388" arrivalID="50280388" distance="0.000" duration="12"/>
+        <event ev_id="4" start="16:40" end="17:05" departureID="50280388" arrivalID="50280388" distance="6.112" duration="25">
+            <stop st_id="50280388" time="16:40" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="16:41" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="16:42" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="16:44" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="16:46" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="16:48" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="16:49" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="16:51" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="16:52" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="16:54" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="16:56" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="16:58" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="17:00" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="17:01" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="17:03" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="17:05" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="17:20" end="17:25" departureID="50280388" arrivalID="50280388" distance="0.000" duration="5"/>
+        <event ev_id="4" start="17:25" end="17:55" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="17:25" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="17:27" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="17:28" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="17:30" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="17:32" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="17:34" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="17:36" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="17:38" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="17:40" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="17:42" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="17:44" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="17:46" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="17:49" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="17:50" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="17:51" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="17:55" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="17:55" end="18:15" departureID="50280388" arrivalID="50280388" distance="0.000" duration="20"/>
+        <event ev_id="4" start="18:15" end="18:45" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="18:15" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="18:17" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="18:18" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="18:20" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="18:22" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="18:24" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="18:26" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="18:28" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="18:30" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="18:32" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="18:34" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="18:36" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="18:39" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="18:40" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="18:42" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="18:45" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="3" start="18:45" end="19:15" departureID="50280388" arrivalID="50970522" distance="3.262" duration="30"/>
+    </graph>
+    <graph num="5" smena="1" nullRun="6.538" lineRun="91.680" totalRun="98.218" nullTime="120" lineTime="578" otsTime="297" totalTime="698" garageOut="06:05" garageIn="21:45" lineBegin="06:45" lineEnd="21:20">
+        <event ev_id="3" start="06:05" end="06:45" departureID="50970522" arrivalID="50280388" distance="3.276" duration="40"/>
+        <event ev_id="4" start="06:45" end="07:15" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="06:45" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="06:47" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="06:48" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="06:50" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="06:52" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="06:54" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="06:55" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="06:58" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="07:00" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="07:02" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="07:04" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="07:06" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="07:10" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="07:11" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="07:13" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="07:15" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="07:15" end="07:25" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="07:25" end="07:55" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="07:25" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="07:27" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="07:28" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="07:30" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="07:32" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="07:34" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="07:36" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="07:38" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="07:40" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="07:42" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="07:44" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="07:46" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="07:50" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="07:51" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="07:52" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="07:55" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="07:55" end="08:05" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="08:05" end="08:36" departureID="50280388" arrivalID="50280388" distance="6.112" duration="31">
+            <stop st_id="50280388" time="08:05" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="08:07" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="08:08" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="08:10" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="08:12" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="08:14" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="08:16" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="08:18" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="08:20" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="08:22" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="08:24" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="08:26" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="08:30" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="08:31" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="08:33" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="08:36" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="08:36" end="08:55" departureID="50280388" arrivalID="50280388" distance="0.000" duration="19"/>
+        <event ev_id="4" start="08:55" end="09:25" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="08:55" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="08:57" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="08:58" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="09:00" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="09:02" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="09:04" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="09:06" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="09:08" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="09:10" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="09:12" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="09:14" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="09:16" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="09:20" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="09:21" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="09:23" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="09:25" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="09:25" end="09:35" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="09:35" end="10:00" departureID="50280388" arrivalID="50280388" distance="6.112" duration="25">
+            <stop st_id="50280388" time="09:35" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="09:36" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="09:37" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="09:38" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="09:40" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="09:42" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="09:43" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="09:45" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="09:47" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="09:48" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="09:50" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="09:52" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="09:55" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="09:56" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="09:58" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="10:00" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="6" start="10:00" end="12:02" departureID="50280388" arrivalID="50280388" distance="0.000" duration="122"/>
+        <event ev_id="4" start="12:02" end="12:28" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="12:02" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="12:03" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="12:04" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="12:05" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="12:07" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="12:09" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="12:10" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="12:12" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="12:14" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="12:15" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="12:17" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="12:19" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="12:22" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="12:23" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="12:25" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="12:28" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="12:28" end="12:40" departureID="50280388" arrivalID="50280388" distance="0.000" duration="12"/>
+        <event ev_id="4" start="12:40" end="13:06" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="12:40" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="12:41" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="12:42" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="12:43" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="12:45" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="12:47" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="12:48" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="12:50" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="12:52" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="12:53" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="12:55" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="12:57" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="13:00" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="13:01" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="13:03" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="13:06" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="13:06" end="13:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="13:20" end="13:46" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="13:20" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="13:21" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="13:22" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="13:23" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="13:25" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="13:27" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="13:28" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="13:30" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="13:32" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="13:33" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="13:35" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="13:37" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="13:40" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="13:41" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="13:43" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="13:46" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="13:46" end="14:50" departureID="50280388" arrivalID="50280388" distance="0.000" duration="64"/>
+        <event ev_id="5" start="14:50" end="14:58" departureID="50280388" arrivalID="50280388" distance="0.000" duration="8"/>
+        <event ev_id="4" start="14:58" end="15:24" departureID="50280388" arrivalID="50280388" distance="6.112" duration="26">
+            <stop st_id="50280388" time="14:58" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="14:59" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="15:00" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="15:01" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="15:03" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="15:05" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="15:06" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="15:08" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="15:10" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="15:11" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="15:13" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="15:15" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="15:18" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="15:19" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="15:21" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="15:24" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="15:24" end="16:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="56"/>
+        <event ev_id="5" start="16:55" end="17:05" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="17:05" end="17:35" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="17:05" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="17:07" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="17:08" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="17:10" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="17:12" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="17:14" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="17:16" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="17:18" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="17:20" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="17:22" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="17:24" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="17:26" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="17:29" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="17:30" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="17:32" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="17:35" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="17:55" end="18:05" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="18:05" end="18:35" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="18:05" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="18:07" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="18:08" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="18:10" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="18:12" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="18:14" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="18:16" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="18:18" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="18:20" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="18:22" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="18:24" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="18:26" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="18:29" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="18:30" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="18:31" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="18:35" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="18:35" end="18:50" departureID="50280388" arrivalID="50280388" distance="0.000" duration="15"/>
+        <event ev_id="4" start="18:50" end="19:20" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="18:50" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="18:52" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="18:53" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="18:55" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="18:57" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="18:59" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="19:01" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="19:03" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="19:05" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="19:07" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="19:09" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="19:11" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="19:14" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="19:15" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="19:17" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="19:20" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="19:20" end="19:28" departureID="50280388" arrivalID="50280388" distance="0.000" duration="8"/>
+        <event ev_id="4" start="19:28" end="19:58" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="19:28" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="19:30" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="19:31" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="19:33" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="19:35" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="19:37" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="19:39" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="19:41" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="19:43" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="19:45" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="19:47" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="19:49" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="19:52" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="19:53" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="19:55" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="19:58" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="19:58" end="20:08" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="20:08" end="20:38" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="20:08" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="20:10" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="20:11" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="20:13" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="20:15" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="20:17" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="20:19" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="20:21" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="20:23" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="20:25" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="20:27" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="20:29" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="20:32" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="20:33" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="20:35" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="20:38" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="20:38" end="20:50" departureID="50280388" arrivalID="50280388" distance="0.000" duration="12"/>
+        <event ev_id="4" start="20:50" end="21:20" departureID="50280388" arrivalID="50280388" distance="6.112" duration="30">
+            <stop st_id="50280388" time="20:50" distanceToNext="0.567" kp="1"/>
+            <stop st_id="50280439" time="20:52" distanceToNext="0.303" kp="0"/>
+            <stop st_id="50280337" time="20:53" distanceToNext="0.391" kp="1"/>
+            <stop st_id="50280202" time="20:55" distanceToNext="0.366" kp="0"/>
+            <stop st_id="50280082" time="20:57" distanceToNext="0.300" kp="1"/>
+            <stop st_id="50280423" time="20:59" distanceToNext="0.414" kp="0"/>
+            <stop st_id="50280348" time="21:01" distanceToNext="0.472" kp="0"/>
+            <stop st_id="50280220" time="21:03" distanceToNext="0.484" kp="1"/>
+            <stop st_id="50280438" time="21:05" distanceToNext="0.266" kp="0"/>
+            <stop st_id="50280368" time="21:07" distanceToNext="0.399" kp="1"/>
+            <stop st_id="50280518" time="21:09" distanceToNext="0.336" kp="0"/>
+            <stop st_id="50280489" time="21:11" distanceToNext="0.707" kp="0"/>
+            <stop st_id="50280333" time="21:14" distanceToNext="0.387" kp="1"/>
+            <stop st_id="50280210" time="21:15" distanceToNext="0.389" kp="0"/>
+            <stop st_id="50280123" time="21:17" distanceToNext="0.331" kp="0"/>
+            <stop st_id="50280388" time="21:20" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="3" start="21:20" end="21:45" departureID="50280388" arrivalID="50970522" distance="3.262" duration="25"/>
+    </graph>
+    <graph num="6" smena="1" nullRun="6.538" lineRun="105.616" totalRun="112.154" nullTime="95" lineTime="567" otsTime="284" totalTime="662" garageOut="06:17" garageIn="21:33" lineBegin="06:52" lineEnd="21:03">
+        <event ev_id="3" start="06:17" end="06:52" departureID="50970522" arrivalID="50280388" distance="3.276" duration="35"/>
+        <event ev_id="4" start="06:52" end="07:22" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="06:52" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="06:53" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="06:55" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="06:58" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="07:00" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="07:02" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="07:05" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="07:08" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="07:10" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="07:12" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="07:14" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="07:16" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="07:18" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="07:20" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="07:22" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="07:22" end="07:30" departureID="50280388" arrivalID="50280388" distance="0.000" duration="8"/>
+        <event ev_id="4" start="07:30" end="08:00" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="07:30" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="07:31" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="07:33" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="07:36" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="07:38" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="07:40" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="07:43" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="07:46" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="07:48" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="07:50" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="07:52" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="07:54" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="07:56" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="07:58" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="08:00" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="08:00" end="08:13" departureID="50280388" arrivalID="50280388" distance="0.000" duration="13"/>
+        <event ev_id="4" start="08:13" end="08:43" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="08:13" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="08:14" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="08:16" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="08:19" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="08:21" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="08:23" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="08:26" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="08:29" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="08:31" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="08:33" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="08:35" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="08:37" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="08:39" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="08:41" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="08:43" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="08:58" end="09:05" departureID="50280388" arrivalID="50280388" distance="0.000" duration="7"/>
+        <event ev_id="4" start="09:05" end="09:35" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="09:05" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="09:06" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="09:08" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="09:11" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="09:13" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="09:15" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="09:18" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="09:21" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="09:23" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="09:25" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="09:27" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="09:29" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="09:31" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="09:33" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="09:35" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="09:35" end="09:45" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="09:45" end="10:07" departureID="50280388" arrivalID="50280388" distance="6.601" duration="22">
+            <stop st_id="50280388" time="09:45" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="09:46" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="09:48" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="09:50" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="09:52" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="09:53" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="09:55" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="09:56" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="09:57" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="09:59" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="10:00" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="10:02" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="10:04" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="10:05" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="10:07" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="10:07" end="10:10" departureID="50280388" arrivalID="50280388" distance="0.000" duration="3"/>
+        <event ev_id="4" start="10:10" end="10:33" departureID="50280388" arrivalID="50280388" distance="6.601" duration="23">
+            <stop st_id="50280388" time="10:10" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="10:11" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="10:13" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="10:15" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="10:17" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="10:19" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="10:21" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="10:23" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="10:24" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="10:26" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="10:27" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="10:29" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="10:31" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="10:32" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="10:33" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="10:33" end="10:50" departureID="50280388" arrivalID="50280388" distance="0.000" duration="17"/>
+        <event ev_id="4" start="10:50" end="11:16" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="10:50" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="10:51" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="10:53" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="10:56" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="10:58" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="11:00" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="11:02" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="11:04" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="11:06" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="11:08" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="11:09" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="11:11" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="11:13" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="11:14" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="11:16" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="6" start="11:16" end="13:30" departureID="50280388" arrivalID="50280388" distance="0.000" duration="134"/>
+        <event ev_id="4" start="13:30" end="13:56" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="13:30" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="13:31" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="13:33" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="13:36" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="13:38" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="13:40" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="13:42" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="13:44" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="13:46" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="13:48" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="13:49" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="13:51" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="13:53" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="13:54" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="13:56" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="13:56" end="14:10" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="14:10" end="14:36" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="14:10" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="14:11" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="14:13" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="14:16" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="14:18" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="14:20" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="14:22" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="14:24" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="14:26" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="14:28" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="14:29" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="14:31" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="14:33" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="14:34" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="14:36" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="7" start="14:36" end="16:36" departureID="50280388" arrivalID="50280388" distance="0.000" duration="120"/>
+        <event ev_id="5" start="16:36" end="16:50" departureID="50280388" arrivalID="50280388" distance="0.000" duration="14"/>
+        <event ev_id="4" start="16:50" end="17:16" departureID="50280388" arrivalID="50280388" distance="6.601" duration="26">
+            <stop st_id="50280388" time="16:50" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="16:51" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="16:53" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="16:56" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="16:58" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="17:00" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="17:02" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="17:04" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="17:06" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="17:08" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="17:09" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="17:11" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="17:13" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="17:14" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="17:16" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="17:16" end="17:35" departureID="50280388" arrivalID="50280388" distance="0.000" duration="19"/>
+        <event ev_id="4" start="17:35" end="18:05" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="17:35" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="17:36" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="17:38" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="17:42" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="17:44" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="17:46" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="17:49" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="17:51" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="17:53" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="17:55" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="17:57" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="17:59" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="18:01" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="18:03" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="18:05" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="18:05" end="18:10" departureID="50280388" arrivalID="50280388" distance="0.000" duration="5"/>
+        <event ev_id="4" start="18:10" end="18:38" departureID="50280388" arrivalID="50280388" distance="6.601" duration="28">
+            <stop st_id="50280388" time="18:10" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="18:11" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="18:13" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="18:17" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="18:19" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="18:21" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="18:23" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="18:25" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="18:27" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="18:29" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="18:31" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="18:33" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="18:35" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="18:36" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="18:38" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="18:38" end="18:43" departureID="50280388" arrivalID="50280388" distance="0.000" duration="5"/>
+        <event ev_id="4" start="18:43" end="19:10" departureID="50280388" arrivalID="50280388" distance="6.601" duration="27">
+            <stop st_id="50280388" time="18:43" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="18:44" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="18:46" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="18:50" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="18:52" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="18:53" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="18:55" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="18:57" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="18:58" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="19:00" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="19:02" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="19:04" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="19:06" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="19:08" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="19:10" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="19:10" end="19:20" departureID="50280388" arrivalID="50280388" distance="0.000" duration="10"/>
+        <event ev_id="4" start="19:20" end="19:45" departureID="50280388" arrivalID="50280388" distance="6.601" duration="25">
+            <stop st_id="50280388" time="19:20" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="19:21" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="19:22" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="19:26" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="19:28" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="19:29" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="19:31" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="19:33" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="19:34" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="19:36" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="19:38" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="19:40" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="19:42" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="19:44" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="19:45" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="4" start="20:00" end="20:30" departureID="50280388" arrivalID="50280388" distance="6.601" duration="30">
+            <stop st_id="50280388" time="20:00" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="20:01" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="20:03" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="20:07" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="20:09" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="20:11" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="20:13" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="20:16" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="20:18" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="20:20" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="20:22" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="20:24" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="20:26" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="20:28" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="20:30" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="5" start="20:30" end="20:35" departureID="50280388" arrivalID="50280388" distance="0.000" duration="5"/>
+        <event ev_id="4" start="20:35" end="21:03" departureID="50280388" arrivalID="50280388" distance="6.601" duration="28">
+            <stop st_id="50280388" time="20:35" distanceToNext="0.607" kp="1"/>
+            <stop st_id="50280122" time="20:36" distanceToNext="0.649" kp="0"/>
+            <stop st_id="50280332" time="20:38" distanceToNext="0.495" kp="1"/>
+            <stop st_id="50280429" time="20:41" distanceToNext="0.453" kp="0"/>
+            <stop st_id="50280490" time="20:43" distanceToNext="0.365" kp="1"/>
+            <stop st_id="50280517" time="20:45" distanceToNext="0.504" kp="0"/>
+            <stop st_id="50280367" time="20:47" distanceToNext="0.192" kp="1"/>
+            <stop st_id="50280437" time="20:49" distanceToNext="0.310" kp="0"/>
+            <stop st_id="50280219" time="20:51" distanceToNext="0.644" kp="1"/>
+            <stop st_id="50280347" time="20:53" distanceToNext="0.394" kp="0"/>
+            <stop st_id="50280424" time="20:55" distanceToNext="0.442" kp="1"/>
+            <stop st_id="50280457" time="20:57" distanceToNext="0.634" kp="0"/>
+            <stop st_id="50280334" time="20:59" distanceToNext="0.229" kp="1"/>
+            <stop st_id="50280031" time="21:01" distanceToNext="0.683" kp="0"/>
+            <stop st_id="50280388" time="21:03" distanceToNext="0.000" kp="1"/>
+        </event>
+        <event ev_id="3" start="21:03" end="21:33" departureID="50280388" arrivalID="50970522" distance="3.262" duration="30"/>
+    </graph>
+</raspvariant>
