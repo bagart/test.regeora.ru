@@ -28,3 +28,35 @@
 
 Вместе с результатом необходима оценка фактических трудозатрат на реализацию
     (желательно детально по каждому шагу).
+
+
+
+# Решение
+0. Сильно зависит от требований от 30 минут до 10часов и выше, 
+    в зависимости от требований гибкости, оптимизации и покрытия тестами
+1. Graph::first()->smeny()->get()->toArray();
+2. 
+    $graph->getIndustrialEventCount();
+    $graph->getIndustrialTimeCount();
+    
+    @example ./artisan industrial_events:stat
+    @example ./artisan industrial_events:stat 1
+3. 
+    Класс "выход" не должен иметь таких методов
+    Stop::getIndustrialStopsBetween($start_minute, $from_minute)
+    @example ./artisan industrial_events:stops 8:00 20:00
+4.
+     name - нет такого поля. 
+     Stop::getIndustrialStopsBetween($start_minute, $from_minute)->first()->name
+
+
+# Install
+
+## Required PHP 7.1
+
+```bash
+composer install
+./artisan migrate
+```
+
+
