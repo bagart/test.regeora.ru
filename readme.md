@@ -41,13 +41,13 @@
     $graph->getIndustrialEventCount();
     $graph->getIndustrialTimeCount();
     
-    ###example
+    ### example
     `./artisan industrial_events:stat`
      `./artisan industrial_events:stat 1`
 3. 
     Класс "выход" не должен иметь таких методов
     Stop::getIndustrialStopsBetween($start_minute, $from_minute)
-    ###example
+    ### example
     `./artisan industrial_events:stops 8:00 20:00`
 4.
      name - нет такого поля. 
